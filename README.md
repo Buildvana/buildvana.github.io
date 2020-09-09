@@ -1,0 +1,1 @@
+This repository is used to host the [buildvana.net](https://buildvana.net) website.
